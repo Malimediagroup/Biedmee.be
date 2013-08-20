@@ -1,4 +1,4 @@
 Biedmee.be
 ==========
 
-Biedmee.be veilingsite
+Biedmee.be is an online auction site from Mali Media Group.
